@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prontoticket</string>
+
+    <string name="back">Volver</string>
+
+    <string name="cartelera">Cartelera</string>
+</resources>
